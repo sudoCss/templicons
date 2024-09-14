@@ -1,4 +1,4 @@
-module gitlab.com/sudoCss/templicons
+module github.com/sudoCss/templicons
 
 go 1.23.1
 
