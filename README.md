@@ -34,6 +34,7 @@ using.
 | [Font Awesome 6](https://fontawesome.com/) | [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) | `github.com/sudoCss/templicons/fa6` | 2045 |
 | [Bootstrap Icons](https://github.com/twbs/icons) | [MIT](https://opensource.org/licenses/MIT) | `github.com/sudoCss/templicons/bs` | 2716 |
 | [Remix Icon](https://github.com/Remix-Design/RemixIcon) | [Apache License Version 2.0](http://www.apache.org/licenses/) | `github.com/sudoCss/templicons/ri` | 2860 |
+
 You can add more icons by submitting pull requests or creating issues.
 
 ## Licence
